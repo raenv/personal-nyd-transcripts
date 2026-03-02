@@ -5,9 +5,9 @@ sources:
   path:      sources.html
   local:     true
   RedVal:
-  name:      Red Valley
-  shortname: RedVal
-  path:      RedVal.html
+  name:      New Years Day
+  shortname: NYD
+  path:      NYD.html
   local:     true
 incomplete:
   name:      List of Incomplete Transcripts
@@ -37,12 +37,12 @@ search:
 github:
   name:      "spooky-arc/transcripts"
   shortname: GitHub
-  path:      https://github.com/james-spooky/unofficial-red-valley-transcripts/
+  path:      https://github.com/raenv/personal-nyd-transcripts/
 warnings:
   name:      Community-Maintained Episode Content Warnings
   shortname: Content Warnings
-  path:      https://red-valley.fandom.com/wiki/Content_Warnings
+  path:      about:blank
 official:
   name:      Official Transcript Archive
   shortname: Official Transcripts
-  path:      "https://www.redvalleypod.com/episodes.html"
+  path:      "https://podcasts.musixmatch.com/podcast/new-years-day-01hk4vye5dtzmwga992dbsjc8g"
