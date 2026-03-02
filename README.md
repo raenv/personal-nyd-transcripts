@@ -1,3 +1,3 @@
-# You Absolutely Do Not Need To Ask Me If You Want To Fork This And Host Your Own Copy
+THIS IS ENTIRELY FOR ME IF YOU ARE NOT ME PLEASE DO NOT BE HERE OK TY
 
-It Is Fine
+seriously don't go poking around
