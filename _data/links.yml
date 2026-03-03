@@ -27,7 +27,7 @@ rss:
 ebook:
   name:      Ebook Download
   shortname: Ebook
-  path:      "assets/epub/the_magnus_archives.epub"
+  path:      "assets/ebook/new_years_day.epub"
   local:     true
 search:
   name:      "Search (WARNING: Slow! Data-Intensive!)"
@@ -45,4 +45,4 @@ warnings:
 official:
   name:      Official Transcript Archive
   shortname: Official Transcripts
-  path:      "https://podcasts.musixmatch.com/podcast/new-years-day-01hk4vye5dtzmwga992dbsjc8g"
+  path:      "https://drive.google.com/drive/folders/1qEN__yNsSuJK0YZf5F9-f3slxQOKqSiX"
