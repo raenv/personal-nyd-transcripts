@@ -2,14 +2,12 @@
 layout: page_default
 ---
 
-# SPOOKY'S TO DO
+# RAEN'S TO DO
 
-* Transfer official transcript pdfs.
+* Proofread all transcripts
 
-* Link all episodes to PodBean.
+* Fix main page
 
-* Make a google form for feedback.
+* Fix titles
 
-* Add finished transcripts to eBook.
-
-* Make accessible Large-print PDFs of the finished transcripts.
+* Add more links and such
