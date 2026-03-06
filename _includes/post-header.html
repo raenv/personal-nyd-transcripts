@@ -20,6 +20,13 @@
   <div class="content">{{ page.summary }}</div>
 </div>
 {%- endif %}
+
+{% if page.audio -%}
+<div class="post-header-section post-summary post-links post-meta">
+  <div class="label">Audio:</div>
+  <div class="content">{{ page.audio }}</div>
+</div>
+{%- endif %}
     
 {% if page.content_flags and page.content_flags.size > 0 -%}
 <div class="post-flags post-header-section post-links post-meta">
