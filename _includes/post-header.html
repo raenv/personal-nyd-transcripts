@@ -23,8 +23,14 @@
 
 {% if page.audio -%}
 <div class="post-header-section post-summary post-links post-meta">
-  <div class="label">Audio:</div>
-  <div class="content">{{ page.audio }}</div>
+  <div class="label">Audio</div>
+  <div class="content">
+     <audio controls>
+       <source src="https://raw.githubusercontent.com/raenv/personal-nyd-transcripts/main/_posts/{{ page.audio }}.mp3" type="audio/mpeg">
+       <source src="https://raw.githubusercontent.com/raenv/personal-nyd-transcripts/main/_posts/{{ page.audio }}.ogg" type="audio/ogg">
+       Your browser does not support the audio element.
+     </audio>
+  </div>
 </div>
 {%- endif %}
     
