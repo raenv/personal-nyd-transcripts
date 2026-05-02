@@ -4,10 +4,6 @@ layout: page_default
 
 # RAEN'S TO DO
 
-* Proofread all transcripts
+* Add misc content
 
-* Fix main page
-
-* Fix titles
-
-* Add more links and such
+* Add playlists
