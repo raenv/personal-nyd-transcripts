@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: NYD Content Archive (Unofficial)
-email: markbecker@gmail.com
+email: gfmy5tln6@mozmail.com
 author: raenv
 # description: > # this means to ignore newlines until "baseurl:"
-description: 'New Years Day transcripts and letters in a  slightly-more-readable format. All are converted versions of the official transcripts.'
+description: 'New Years Day transcripts, missives, and more in a much-more-readable format. All are converted versions of the official transcripts.'
 language: en-us
 
 # # If you're hosting your site at a Project repository on GitHub pages
